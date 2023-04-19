@@ -6,6 +6,8 @@ A list of links of Ethereum related references
 - https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_2.html
 - https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart.contracts.html
 - https://nakamotoinstitute.org/the-idea-of-smart-contracts/
+- https://nakamotoinstitute.org/formalizing-securing-relationships/
+- https://nakamotoinstitute.org/contract-language/
 
 
 ## Ethereum - Background
