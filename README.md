@@ -1,8 +1,6 @@
-# Blockchain Related Research Papers - [![References](https://img.shields.io/badge/References-53-<COLOR>.svg)](https://shields.io/) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+# Blockchain Academic References - [![References](https://img.shields.io/badge/References-53-<COLOR>.svg)](https://shields.io/) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-
-
-A list of links of Academic research papers related to the foundation of Blockchain technology:
+A list of links of Academic references and research papers related to Blockchain Technology. From the foundation of Blockchain as a technology, to Bitcoin, Ethereum specific research papers, up to more in depth technical topics like scaling solutions, consensus algorithms, etc...
 
 > **Table of Content**
 >
