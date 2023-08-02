@@ -10,7 +10,7 @@ A list of links of Academic references and research papers related to Blockchain
 > **Table of Content**
 >
 > * [Table of Content](#table-of-content)
-> * [Blockchain Foundations & Primitives](#blockchain-foundations---primitives)
+> * [Blockchain Foundations & Cryptography Primitives](#blockchain-foundations---primitives)
 > * [Bitcoin](#bitcoin)
 > * [Ethereum](#ethereum)
 > * [Smart Contracts](#smart-contracts)
@@ -23,7 +23,7 @@ A list of links of Academic references and research papers related to Blockchain
 > * [Others](#others)
 
 
-## Blockchain Foundations & Primitives
+## Blockchain Foundations & Cryptography Primitives
 
 - [Merkle R. (1980), Protocols for Public Key Cryptosystems](https://www.ralphmerkle.com/papers/Protocols.pdf) --> **This is the foundational paper of Public-Key Cryptography, what everything in Blockchain Technology is based on!**
 - [Lamport L. (1982), The Byzantine Generals Problem,](https://lamport.azurewebsites.net/pubs/byz.pdf)
