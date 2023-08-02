@@ -1,8 +1,11 @@
 # Blockchain Academic References - [![Research Papers](https://img.shields.io/badge/Total_Research_Papers-53-<COLOR>.svg)](https://shields.io/) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-![Greek Philosopher](https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvam9iNjY3LTgyLXhfMS5qcGc.jpg?s=9ZQdmlNtbcvds7_Ww9fcQUC0-epeZk_GkAUpvAgvv_s)
-
 A list of links of Academic references and research papers related to Blockchain Technology. From the foundation of Blockchain as a technology, to Bitcoin or Ethereum specific research, up to more in depth technical topics like scaling solutions, consensus algorithms, etc...
+
+![Greek Philosopher](https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvam9iNjY3LTgyLXhfMS5qcGc.jpg?s=9ZQdmlNtbcvds7_Ww9fcQUC0-epeZk_GkAUpvAgvv_s)
+> Image credit: [rawpixel.com](https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvam9iNjY3LTgyLXhfMS5qcGc.jpg?s=9ZQdmlNtbcvds7_Ww9fcQUC0-epeZk_GkAUpvAgvv_s)
+
+<br/>
 
 > **Table of Content**
 >
