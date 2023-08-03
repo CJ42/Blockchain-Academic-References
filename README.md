@@ -66,7 +66,7 @@ A list of links of Academic references and research papers related to Blockchain
 - https://nakamotoinstitute.org/contract-language/
  
 ## Smart Contracts Security
-- [Demystifying Exploitable Bugs in Smart Contracts 2021-2022](https://www.cs.purdue.edu/homes/zhan3299/res/ICSE23.pdf)
+- [Z. Zhang (2021-2022), Demystifying Exploitable Bugs in Smart Contracts](https://www.cs.purdue.edu/homes/zhan3299/res/ICSE23.pdf)
 
 ## Scaling solutions
 
