@@ -13,6 +13,7 @@ A list of links of Academic references and research papers related to Blockchain
 > * [Bitcoin](#bitcoin)
 > * [Ethereum](#ethereum)
 > * [Smart Contracts](#smart-contracts)
+> * [Smart Contracts Security](#smart-contracts-security)
 > * [Scaling solutions](#scaling-solutions)
 > * [Consensus Algorithms](#consensus-algorithms)
 > * [Zero-Knowledge Technology (ZK Proof)](#zero-knowledge-technology--zk-proof-)
@@ -63,6 +64,9 @@ A list of links of Academic references and research papers related to Blockchain
 - https://nakamotoinstitute.org/the-idea-of-smart-contracts/
 - https://nakamotoinstitute.org/formalizing-securing-relationships/
 - https://nakamotoinstitute.org/contract-language/
+ 
+## Smart Contracts Security
+- [Demystifying Exploitable Bugs in Smart Contracts 2021-2022](https://www.cs.purdue.edu/homes/zhan3299/res/ICSE23.pdf)
 
 ## Scaling solutions
 
