@@ -1,4 +1,4 @@
-# Blockchain Academic References - [![Research Papers](https://img.shields.io/badge/Total_Research_Papers-53-<COLOR>.svg)](https://shields.io/) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+# Blockchain Academic References - [![Research Papers](https://img.shields.io/badge/Total_Research_Papers-103-<COLOR>.svg)](https://shields.io/) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 A list of links of Academic references and research papers related to Blockchain Technology. From the foundation of Blockchain as a technology, to Bitcoin or Ethereum specific research, up to more in depth technical topics like scaling solutions, consensus algorithms, etc...
 
@@ -9,8 +9,7 @@ A list of links of Academic references and research papers related to Blockchain
 
 > **Table of Content**
 >
-> * [Table of Content](#table-of-content)
-> * [Blockchain Foundations & Cryptography Primitives](#blockchain-foundations---primitives)
+> * [Blockchain Foundations & Cryptography Primitives](#blockchain-foundations-&-cryptography-primitives)
 > * [Bitcoin](#bitcoin)
 > * [Ethereum](#ethereum)
 > * [Smart Contracts](#smart-contracts)
@@ -20,6 +19,7 @@ A list of links of Academic references and research papers related to Blockchain
 > * [Alternative Blockchains & DLT Technologies](#alternative-blockchains---dlt-technologies)
 > * [Decentralised Storage & File System Technology](#decentralised-storage---file-system-technology)
 > * [Blockchain from a business perspective](#blockchain-from-a-business-perspective)
+> * [Blockchain Literature Review](#blockchain-literature-review)
 > * [Others](#others)
 
 
@@ -79,7 +79,7 @@ A list of links of Academic references and research papers related to Blockchain
 - [Nguyen G-T. (2018), A Survey about Consensus Algorithms used in Blockchain,Journal of Information Processing System](https://s3.ap-northeast-2.amazonaws.com/journal-home/journal/jips/fullText/90/jips_530.pdf)
 - [Biryukov A. (2017), Equihash: Asymmetric Proof-of-Work based on the Generalized Birthday Problem,](https://core.ac.uk/download/pdf/31227294.pdf)
 - [Milutinovic M. (2016), Proof of Luck: an Efficient Blockchain Consensus Protocol,](https://eprint.iacr.org/2017/249.pdf)
-
+- [Zheng Z. (2017), An Overview of Blockchain Technology: Architecture, Consensus and Future Trends,International Congress on Big Data](https://www.henrylab.net/wp-content/uploads/2017/10/blockchain-conference-2017.pdf)
 
 ## Zero-Knowledge Technology (ZK Proof)
 
@@ -107,11 +107,42 @@ A list of links of Academic references and research papers related to Blockchain
 ## Blockchain from a business perspective
 
 - [Catalini C. (2017), Seeing Beyond the Blockchain Hype,MIT Sloan Magazine](https://www.proquest.com/openview/27d54ad979f5570e3eac86a9c0ab68d2/1.pdf?pq-origsite=gscholar&cbl=26142)
+- [Hari A. (2016), The Internet Blockchain: A Distributed, Tamper-Resistant Transaction Framework for the Internet,Nokia Bell Labs](https://sands.kaust.edu.sa/classes/CS390G/S17/papers/InternetBlockchain.pdf)
+- [Koteska B. (2017), Blockchain Implementation Quality Challenges: A Literature Review,University SS. Cyril and Methodius, Macedonia](https://ceur-ws.org/Vol-1938/paper-kot.pdf)
+- [Ammous S. (2016), Blockchain Technology: What is it good for ?](https://web.archive.org/web/20180921223508id_/http://wvuieeepes.org:80/ee335/papers/SSRN-id2832751.pdf)
+- [De Kruijff J. (2017), Understanding the Blockchain Using Enterpise Ontology](https://link.springer.com/chapter/10.1007/978-3-319-59536-8_3)
+  - [Xu X. (2016), The Blockchain as a Software Connector,IEEE](https://ieeexplore.ieee.org/document/7516828)
+- [Beck R. (2016), Blockchain - The Gateway to Trust Free Cryptographic Transactions,ECIS](https://pure.itu.dk/ws/portalfiles/portal/81041470/ECIS_Format_Blockchain_paper_160330.pdf)
+- [Lipton A. (2018), Blockchain and Distributed Ledgers in Retrospective and Perspective,Journal of Risk Finance - Emerald Insight](https://arxiv.org/pdf/1703.01505.pdf)
+- [Mattila J. (2016), The Blockchain Phenomenon - The Disruptive Potential of Distributed Consensus Architectures,](https://brie.berkeley.edu/sites/default/files/juri-mattila-.pdf)
+- [Catalini C. (2017), Some Simple Economics of the Blockchain,University of Toronto](https://www.nber.org/system/files/working_papers/w22952/w22952.pdf)
+- [Wright A. (), Decentralized Blockchain Technology and the rise of Lex Cryptographia,](https://www.weusecoins.com/assets/pdf/library/Decentralized%20Blockchain%20Technology%20And%20The%20Rise%20Of%20Lex%20Cryptographia.pdf)
+- [Xu X. (2017), A Taxonomy of Blockchain-Based Systems for Architecture Design,](https://design.inf.usi.ch/sites/default/files/biblio/icsa2017-blockchain.pdf)
+- [Beck R. (2017), Blockchain as Radical Innovation: A Framework for Engaging with Distributed Ledgers,International Conference on System Science](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/86612670-480d-4e1d-8b39-b00e3cfe4234/content)
+- [Kazan E. (2015), Value Creation in Cryptocurrency Networks: toward a taxonomy of Digital Business Models for Bitcoin Companies, ](https://www.researchgate.net/profile/Erol-Kazan/publication/278728722_Value_Creation_in_Cryptocurrency_Networks_Towards_A_Taxonomy_of_Digital_Business_Models_for_Bitcoin_Companies/links/55849a1c08ae7bc2f4483fee/Value-Creation-in-Cryptocurrency-Networks-Towards-A-Taxonomy-of-Digital-Business-Models-for-Bitcoin-Companies.pdf)
+- [Zhao J. (2016), Overview of Business Innovations and Research Opportunities in Blockchain and Introduction to the special issue,](https://jfin-swufe.springeropen.com/articles/10.1186/s40854-016-0049-2)
+- [Nowinski W. (2017), How can Blockchain Technology disrupt the Existing Business Models,Entrepreneurial Business and Economics Review](https://eber.uek.krakow.pl/index.php/eber/article/view/270/pdf)
+- [Zamani E. (2018), With a little help from the miners: distributed ledger technology and market disintermediation,](https://eclass.aegean.gr/modules/document/file.php/TNEY202/IMDS-Giaglis%20BC.pdf)
+- [Brenig C. (2016), Value of Decentralized Consensus Systems: Evaluation Framework,ECIS](https://web.archive.org/web/20200322232019id_/https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1082&context=ecis2016_rp)
+- [Tschorsch F. (2016), Bitcoin and Beyond: a Technical Survey on Decentralized Digital Currencies,](https://eprint.iacr.org/2015/464.pdf)
+- [Wörner D. (2016), The Bitcoin Ecosystem: Disruption beyong Financial Services,ECIS](https://www.researchgate.net/profile/Dominik-Bilgeri/publication/317304739_The_Bitcoin_Ecosystem_Disruption_Beyond_Financial_Services/links/5a706839a6fdcc33daa8b7b9/The-Bitcoin-Ecosystem-Disruption-Beyond-Financial-Services.pdf)
+- [Iansiti (2017), The Truth about Blockchain,](https://enterprisersproject.com/sites/default/files/the_truth_about_blockchain.pdf)
 
+## Blockchain Literature Review
+
+- [Zheng Z. (2017), Blockchain Challenges and Opportunities: A Survey,](https://www.henrylab.net/wp-content/uploads/2017/10/blockchain.pdf)
+- [Risius M. (2017), A Blockchain Research Framework: what we (don't) know, where we go from here, and how we will get there,University of Manheim](https://core.ac.uk/download/pdf/301373858.pdf)
+- [Johansen S.K (2016), A Comprehensive Literature Review on Blockchain Technology as a Technological Enabler for Innovation,](https://www.researchgate.net/profile/Stefan-Johansen/publication/312592741_A_Comprehensive_Literature_Review_on_the_Blockchain_Technology_as_an_Technological_Enabler_for_Innovation/links/5a54c2f7a6fdcc51a61a57e5/A-Comprehensive-Literature-Review-on-the-Blockchain-Technology-as-an-Technological-Enabler-for-Innovation.pdf)
+- [Seebacher S. (2017), Blockchain Technology as an Enabler of Service Systems: A Structured Literature Review,International Conference on Exploring Service Science](https://www.researchgate.net/profile/Stefan-Seebacher/publication/315858662_Blockchain_Technology_as_an_Enabler_of_Service_Systems_A_Structured_Literature_Review/links/5abcad94aca27222c753ee77/Blockchain-Technology-as-an-Enabler-of-Service-Systems-A-Structured-Literature-Review.pdf)
+- [Yli-Huumo J. (2016), Where is the current Research on Blockchain Technology ? - A Systematic Review,](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0163477&type=printable)
 
 ## Others
 
 - [Yu R. ( ), Virtualization for Distributed Ledger Technology (vDLT),IEEE](https://core.ac.uk/download/pdf/217570748.pdf)
+
+
+
+
 
 
 
